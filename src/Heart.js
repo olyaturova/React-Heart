@@ -11,7 +11,7 @@ export class Heart extends Component {
 
       heartClicked = () =>{
           this.setState({
-              CTA: "Thank you! We love you? too!",
+              CTA: "Thank you! We love you? TOO!",
               image: fullheart
           })
       }
